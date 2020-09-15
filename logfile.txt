@@ -1,0 +1,68 @@
+This error is located at:
+        in U
+        in Unknown
+        in Unknown
+        in Unknown
+        in Unknown
+        in RCTView
+        in RCTView
+        in RCTView
+        in RCTView
+        in f
+        in ForwardRef
+        in PanGestureHandler
+        in RCTView
+        in f
+        in ForwardRef
+        in RCTView
+        in n
+        in Unknown
+        in RCTView
+        in Unknown
+        in RCTView
+        in Unknown
+        in o
+        in n
+        in RNCSafeAreaView
+        in Unknown
+        in Unknown
+        in GestureHandlerRootView
+        in Unknown
+        in n
+        in Unknown
+        in Unknown
+        in ForwardRef
+        in Unknown
+        in ForwardRef
+        in G
+        in Root
+        in RCTView
+        in s
+        in RCTView
+        in Unknown
+        in n
+        in Root
+        in RCTView
+        in u, js engine: hermes, stack:
+    value@1:1600735
+    value@1:742304
+    Ll@1:135347
+    anonymous@1:221191
+    an@1:102288
+    Hl@1:133987
+    Rl@1:128650
+    anonymous@1:102697
+    anonymous@1:221191
+    an@1:102288
+    cn@1:102550
+    sn@1:102444
+    kl@1:125893
+    ha@1:139350
+    render@1:149501
+    anonymous@1:373914
+    run@1:370399
+    runApplication@1:370844
+    value@1:61833
+    anonymous@1:60363
+    value@1:61430
+    value@1:60321

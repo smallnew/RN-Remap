@@ -1,0 +1,22 @@
+{
+  "name": "rn-remap",
+  "version": "1.0.0",
+  "description": "map rn crash info to source line",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "chalk": "^2.4.2",
+    "commander": "^2.19.0",
+    "source-map": "^0.7.3",
+    "mkdirp": "^0.5.1",
+    "pump": "^2.0.0"
+  },
+  "keywords": [
+    "rn",
+    "crash"
+  ],
+  "author": "smallnew",
+  "license": "ISC"
+}
