@@ -1,11 +1,11 @@
-#RN-Remap
+# RN-Remap
 > A cmd tool for rn devs，in order to de-obfuscate bug reports from your release builds
 
 ## install
 `npm install rn-remap -g`
 ## help
 
-####cmd example:
+#### cmd example:
 ```
 rn-remap -f ./crash_report.txt -u <your sourcemap remote url> 
 eg. http://example.com/maps/index.android.bundle.map
@@ -13,7 +13,7 @@ or
 rn-remap -f ./crash_report.txt -s <your sourcemap local file path> 
 eg. ./index.android.bundle.map
 ```
-####crash_report.txt content like below:
+#### crash_report.txt content like below:
 ```
 This error is located at:
         in U
@@ -43,7 +43,7 @@ This error is located at:
     value@1:60321
 ```
 
-####remap result below:
+#### remap result below:
 ```
 This error is located at:
         in U
